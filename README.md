@@ -1,4 +1,4 @@
-# Software-Testing-ourse
+# Software-Testing-Course
 
 Hi everyone! I am studying software testing course with Vadim Ksendzov. (https://ksendzov.com/)
 Here I will share my progress and completed homework.
