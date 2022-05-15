@@ -7,5 +7,5 @@ let's get started!
 
 ***
 
-API testing homework - GET and POST methods (Task is done in Postman)
+###### API testing homework - GET and POST methods (Task is done in Postman) 
 The task was get the correct response of HTTP server using GET and POST methods, IP address, port number, endpoint values and request parameters.
